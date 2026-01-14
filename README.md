@@ -1,15 +1,48 @@
 ---
 
-# 奇绩算力 · Project Directory（Cohort 2025）
+# 奇绩算力 · 项目目录（2025）
 
-This repository serves as a **project directory (portal)** for the 2025 cohort supported by 奇绩算力.
+本仓库汇总了 2025 年度在奇绩算力支持下开展的项目目录，  
+用于展示算力资源在前沿人工智能研究与工程实践中的实际使用情况。
 
-Each project entry links to its **external repository, demo, or documentation** where applicable.
-This repository does **not necessarily host project code or data**.
+本仓库为**项目索引目录**，不集中托管项目源代码或数据。
 
 ---
 
-## 🤖 Embodied AI / Robotics
+## 项目覆盖范围
+
+本批次项目共计 67 项，覆盖以下技术方向：
+
+- 具身智能与机器人
+- Agent 与智能系统
+- 多模态生成与内容智能
+- AI for Science（医药、材料、科学计算）
+- 系统、推理与算力基础设施
+- 仿真、世界模型与物理 AI
+
+项目来源包括科研团队、工程团队及初创企业。
+
+---
+
+## 目录结构
+
+项目按技术方向分类整理，并以统一表格形式呈现，  
+每个项目条目包含：
+
+- 项目名称
+- 简要技术说明
+- 已确认可公开的外部资料链接（如代码仓库、演示或文档）
+
+---
+
+## 关于信息与合规性
+
+- 所有信息均来自项目方提交并确认可公开的内容  
+- 本仓库不包含任何未授权代码、数据或商业敏感信息  
+
+---
+
+##  Embodied AI / Robotics
 
 |  ID | Project       | One-line intro             | Links              |
 | --: | ------------- | -------------------------- | ------------------ |
@@ -30,7 +63,7 @@ This repository does **not necessarily host project code or data**.
 
 ---
 
-## 🧠 Agent / Intelligent Systems
+##  Agent / Intelligent Systems
 
 |  ID | Project                | One-line intro              | Links       |
 | --: | ---------------------- | --------------------------- | ----------- |
@@ -54,7 +87,7 @@ This repository does **not necessarily host project code or data**.
 
 ---
 
-## 🖼 Multimodal / Content Generation
+##  Multimodal / Content Generation
 
 |  ID | Project       | One-line intro      | Links       |
 | --: | ------------- | ------------------- | ----------- |
@@ -70,7 +103,7 @@ This repository does **not necessarily host project code or data**.
 
 ---
 
-## 🧬 AI for Science / Medical / Materials
+##  AI for Science / Medical / Materials
 
 |  ID | Project         | One-line intro             | Links |
 | --: | --------------- | -------------------------- | ----- |
@@ -87,7 +120,7 @@ This repository does **not necessarily host project code or data**.
 
 ---
 
-## ⚙️ Systems / Inference / Infrastructure
+##  Systems / Inference / Infrastructure
 
 |  ID | Project               | One-line intro | Links |
 | --: | --------------------- | -------------- | ----- |
@@ -101,7 +134,7 @@ This repository does **not necessarily host project code or data**.
 
 ---
 
-## 🧪 Simulation / World Model / Physical AI
+##  Simulation / World Model / Physical AI
 
 |  ID | Project           | One-line intro        | Links       |
 | --: | ----------------- | --------------------- | ----------- |
@@ -115,7 +148,7 @@ This repository does **not necessarily host project code or data**.
 
 ---
 
-## 📊 Data / Industrial AI
+##  Data / Industrial AI
 
 |  ID | Project | One-line intro   | Links |
 | --: | ------- | ---------------- | ----- |
