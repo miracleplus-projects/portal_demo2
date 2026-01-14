@@ -1,5 +1,3 @@
----
-
 # 奇绩算力 · 项目目录（2025）
 
 本仓库汇总了 2025 年度在奇绩算力支持下开展的项目目录，  
@@ -46,13 +44,13 @@
 
 |  ID | Project       | One-line intro             | Links              |
 | --: | ------------- | -------------------------- | ------------------ |
-| P01 | 阿卡西机器人        | 基于端到端模型的导航小脑及导盲机器人         | Repo · Demo · Docs |
+| P01 | 阿卡西机器人        | 基于端到端模型的导航小脑及导盲机器人         | Repo · Link · Docs |
 | P02 | 朗毅机器人         | 高精度具身智能小脑，赋予人形机器人自主移动与交互能力 | Repo · Docs        |
 | P03 | 枢途大脑          | 驱动机器人场景作业能力的具身智能大模型企业      | Docs               |
 | P04 | 如身机器人         | 面向康复健身与家庭服务的模块化机器人         | Docs               |
 | P06 | 无限工坊          | 面向机械加工场景的具身学徒机器人体系         | Docs               |
 | P08 | 拉玛羊驼          | Lilith 系列具身智能大模型           | Docs               |
-| P09 | 推行科技          | 低速自动驾驶共享代步设备               | Demo               |
+| P09 | 推行科技          | 低速自动驾驶共享代步设备               | Link               |
 | P11 | Feagine       | 全球首款具身连续体机械臂               | Docs               |
 | P12 | 燧石机器人         | 面向家庭场景的智能服务机器人             | Docs               |
 | P13 | 启物科技          | 人形机器人端侧大脑与软硬一体方案           | Docs               |
@@ -61,20 +59,20 @@
 | P43 | PuppetMind 魁智 | 具备泛化能力的机器人大脑               | Docs               |
 | P49 | 1-bit 具身多模态模型 | 高效推理的具身智能基础模型              | Repo               |
 
----
+
 
 ##  Agent / Intelligent Systems
 
 |  ID | Project                | One-line intro              | Links       |
 | --: | ---------------------- | --------------------------- | ----------- |
-| P14 | Midreal                | System2 Agent 驱动的 AI 小说创作平台 | Repo · Demo |
+| P14 | Midreal                | System2 Agent 驱动的 AI 小说创作平台 | Repo · Link |
 | P15 | 缔零科技                   | 面向高风险内容的 AI 安全解决方案          | Docs        |
 | P16 | 跨越星空                   | GUI Agent 与 Web Agent 平台    | Repo · Docs |
 | P17 | 探微杜渐（AI Hacker）        | AI 驱动的网络攻击与防御研究             | Repo        |
 | P18 | 芯格科技                   | 金融场景下的大模型推理应用               | Docs        |
 | P19 | 将然科技                   | 操作系统级 Agent 框架              | Repo        |
-| P20 | Authing / Fellou       | Agentic Browser 行动浏览器       | Demo        |
-| P21 | Elser.AI               | 消费级动漫生成 Agent               | Demo        |
+| P20 | Authing / Fellou       | Agentic Browser 行动浏览器       | Link        |
+| P21 | Elser.AI               | 消费级动漫生成 Agent               | Link        |
 | P22 | Nxcode                 | 企业级自主软件工程师 Agent            | Repo        |
 | P23 | 现实回环                   | 面向科研场景的 AI 科研助理             | Docs        |
 | P31 | Cpilot                 | 本地 + 云协同 AI 操作助手            | Repo        |
@@ -85,23 +83,23 @@
 | P66 | 中科院郭怡然                 | 新型大模型强化学习框架 SPO             | Repo        |
 | P67 | 动态重排序模型                | 检索增强的排序推理模型                 | Repo        |
 
----
+
 
 ##  Multimodal / Content Generation
 
 |  ID | Project       | One-line intro      | Links       |
 | --: | ------------- | ------------------- | ----------- |
-| P07 | 上海燃棘          | 原生支持 AI 的全平台绘图与创作软件 | Repo · Demo |
+| P07 | 上海燃棘          | 原生支持 AI 的全平台绘图与创作软件 | Repo · Link |
 | P24 | 蚁触科技（夏貘科技）    | 触觉交互与多模态体验技术        | Docs        |
-| P25 | 大饼声音引擎        | 实时 AI 变声与语音处理       | Demo        |
-| P26 | Reecho 睿声     | 音频与情感交互 AI          | Demo        |
+| P25 | 大饼声音引擎        | 实时 AI 变声与语音处理       | Link        |
+| P26 | Reecho 睿声     | 音频与情感交互 AI          | Link        |
 | P29 | 四维视界          | 4D 视频拍摄与创作引擎        | Docs        |
-| P46 | SynWorld（陈粤洋） | 空间智能驱动的营销视频生成       | Demo        |
+| P46 | SynWorld（陈粤洋） | 空间智能驱动的营销视频生成       | Link        |
 | P47 | 视频自回归生成       | 基于 VAR 的视频生成基础研究    | Repo        |
 | P48 | 像素空间端到端生成     | 高效端到端图像生成           | Repo        |
-| P50 | 浮光 AI         | 高速、低成本的 AI 视频生成     | Demo        |
+| P50 | 浮光 AI         | 高速、低成本的 AI 视频生成     | Link        |
 
----
+
 
 ##  AI for Science / Medical / Materials
 
@@ -118,7 +116,7 @@
 | P63 | 清华罗迪            | AI for Common Science 基础模型 | Docs  |
 | P64 | 高频 Helmholtz 方程 | 高频物理方程求解                   | Repo  |
 
----
+
 
 ##  Systems / Inference / Infrastructure
 
@@ -132,7 +130,7 @@
 | P58 | vLLM Production Stack | 面向生产的大模型推理栈    | Repo  |
 | P62 | QuantaQ               | 量子启发式模型压缩      | Repo  |
 
----
+
 
 ##  Simulation / World Model / Physical AI
 
@@ -144,7 +142,7 @@
 | P38 | 极映科技              | 百倍加速的自动物理仿真           | Docs        |
 | P51 | GrowAI            | 基于成长范式的世界模型           | Docs        |
 | P57 | 双曲空间 Scaling Law  | 探索下一代 scaling law     | Repo        |
-| P65 | 光速科技 Paralight.ai | AI 加速的仿真优化平台          | Demo        |
+| P65 | 光速科技 Paralight.ai | AI 加速的仿真优化平台          | Link        |
 
 ---
 
