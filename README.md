@@ -1,5 +1,5 @@
 <p align="right">
-  简体中文 | <a href="00-portal/README.md">English</a>
+  简体中文 | <a href="README_en.md">English</a>
 </p>
 
 # 奇绩算力 · 项目目录（2025）
