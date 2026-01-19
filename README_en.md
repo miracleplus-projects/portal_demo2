@@ -2,11 +2,6 @@
   <a href="./README.md">简体中文</a> | English
 </p>
 
-# Project Name
-...
-
-
-
 # MiraclePlus Project Directory (Cohort 2025)
 
 This repository acts as a public directory and entry point — highlighting what different teams have actually built, explored, or validated with real compute resources.
