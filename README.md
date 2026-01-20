@@ -48,9 +48,9 @@
 
 | Project       | One-line intro             | Links              |
 | -- | -------------------------- | ------------------ |
+| 朗毅机器人         | 世界第一的语义分割算法，赋予人形机器人自主移动与交互能力 | Repo · Docs   |
 | 阿卡西机器人        | 基于端到端模型的导航小脑及导盲机器人         | Repo · Link · Docs |
-| 朗毅机器人         | 高精度具身智能小脑，赋予人形机器人自主移动与交互能力 | Repo · Docs        |
-| 枢途大脑          | 驱动机器人场景作业能力的具身智能大模型企业      | Docs               |
+| 枢途大脑          | 驱动机器人场景作业能力的具身智能大模型企业      | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)               |
 | 如身机器人         | 面向康复健身与家庭服务的模块化机器人         | Docs               |
 | 无限工坊          | 面向机械加工场景的具身学徒机器人体系         | Docs               |
 | 拉玛羊驼          | Lilith 系列具身智能大模型           | Docs               |
@@ -58,7 +58,7 @@
 | Feagine       | 全球首款具身连续体机械臂               | Docs               |
 | 燧石机器人         | 面向家庭场景的智能服务机器人             | Docs               |
 | 启物科技          | 人形机器人端侧大脑与软硬一体方案           | Docs               |
-| Hyperspace AI | 具身智能与机器人探索项目               | —                  |
+| Hyperspace AI | 具身智能与机器人探索项目               | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)                  |
 | 通用灵巧手（清华张谷）   | 基于第一人称视频的灵巧操作学习            | Repo               |
 | PuppetMind 魁智 | 具备泛化能力的机器人大脑               | Docs               |
 | 1-bit 具身多模态模型 | 高效推理的具身智能基础模型              | Repo               |
@@ -140,7 +140,6 @@
 
 | Project           | One-line intro        | Links       |
 | ----------------- | --------------------- | ----------- |
-| 朗毅            | 世界第一的语义分割算法        | Docs        |
 | 拓境智能              | 面向具身智能与自动驾驶的一体化仿真测试平台 | Repo · Docs |
 | 极佳视界              | 世界模型驱动的物理世界基础模型       | Docs        |
 | 虚时科技              | 物理 AI 的 3D 训练场        | Docs        |
