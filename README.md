@@ -1,13 +1,39 @@
+<!-- MiraclePlus Compute Infrastructure Support -->
+<p align="center">
+  <a href="https://compute.miracleplus.com/apply?ref=github_logo">
+    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="30" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://compute.miracleplus.com/apply?ref=github_badge">
+    <img src="https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge" />
+  </a>
+</p>
+
 <p align="right">
   简体中文 | <a href="README_en.md">English</a>
 </p>
 
 # 奇绩算力 · 项目目录（2025）
 
-本仓库汇总了 2025 年度在奇绩算力支持下开展的项目目录，  
-用于展示算力资源在前沿人工智能研究与工程实践中的实际使用情况。
 
-本仓库为**项目索引目录**，不集中托管项目源代码或数据。
+本目录收录由 **奇绩算力（MiraclePlus Compute）** 提供基础设施支持的项目，
+面向科研团队、学生项目与早期创业者，展示其在 **免费高性能算力** 支持下的成果。
+
+> 本仓库为**项目索引目录**，不集中托管项目源代码或数据。
+
+
+
+## ⭐ Outstanding
+
+| Project       | One-line intro             | Links              |
+| -- | -------------------------- | ------------------ |
+| Macaron/Midreal        | 万亿参数微调 | Repo · Link |
+| MoonCake（任峰）          | 知名开源社区（被kimi等使用） | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)   |
+| 中科院王军组          | AI 发现新型药物分子                | Docs  |
+| 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | Repo · Docs   |
+
 
 ---
 
@@ -50,7 +76,7 @@
 | -- | -------------------------- | ------------------ |
 | 朗毅机器人         | 世界第一的语义分割算法，赋予人形机器人自主移动与交互能力 | Repo · Docs   |
 | 阿卡西机器人        | 基于端到端模型的导航小脑及导盲机器人         | Repo · Link · Docs |
-| 枢途大脑          | 驱动机器人场景作业能力的具身智能大模型企业      | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)               |
+| 枢途大脑          | 驱动机器人场景作业能力的具身智能大模型企业      | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)     |
 | 如身机器人         | 面向康复健身与家庭服务的模块化机器人         | Docs               |
 | 无限工坊          | 面向机械加工场景的具身学徒机器人体系         | Docs               |
 | 拉玛羊驼          | Lilith 系列具身智能大模型           | Docs               |
@@ -58,7 +84,7 @@
 | Feagine       | 全球首款具身连续体机械臂               | Docs               |
 | 燧石机器人         | 面向家庭场景的智能服务机器人             | Docs               |
 | 启物科技          | 人形机器人端侧大脑与软硬一体方案           | Docs               |
-| Hyperspace AI | 具身智能与机器人探索项目               | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)                  |
+| Hyperspace AI | 具身智能与机器人探索项目               | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)              |
 | 通用灵巧手（清华张谷）   | 基于第一人称视频的灵巧操作学习            | Repo               |
 | PuppetMind 魁智 | 具备泛化能力的机器人大脑               | Docs               |
 | 1-bit 具身多模态模型 | 高效推理的具身智能基础模型              | Repo               |
@@ -109,12 +135,12 @@
 
  | Project         | One-line intro             | Links |
 | --------------- | -------------------------- | ----- |
+ | 中科院王军组          | AI 发现新型药物分子                | Docs  |
  | 小蝇科技            | 医学显微形态学智能检验                | Docs  |
  | Deepmath（月光猜想）  | 数学推理大模型                    | Repo  |
 | 清屿科技            | AI 驱动的新材料研发                | Docs  |
  | 寰渺科技            | 电镜数据 AI 处理管线               | Repo  |
 | AILSI           | 多肽药物发现 AI 平台               | Docs  |
- | 中科院王军组          | AI 发现新型药物分子                | Docs  |
 | 北大杨君维           | 原子尺度统一建模分子、蛋白与基因           | Repo  |
 | 浙大 ProLign      | AI 辅助药物发现                  | Repo  |
 | 清华罗迪            | AI for Common Science 基础模型 | Docs  |
