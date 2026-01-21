@@ -16,14 +16,13 @@
   简体中文 | <a href="README_en.md">English</a>
 </p>
 
+
+# 奇绩算力 · 项目目录（2025）
+
 [![Projects](https://img.shields.io/badge/Projects-67-brightgreen.svg)](https://github.com/miracleplus-projects/portal_demo2/)
 [![License](https://img.shields.io/badge/license-Internal-blue.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-External-orange.svg)](README.md)
 [![CTA](https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge")]([https://github.com/MiraclePlus/miracleplus-skills](https://www.miracleplus.com/compute/))
-
-
-# 奇绩算力 · 项目目录（2025）
-
 
 本目录收录由 **奇绩算力（MiraclePlus Compute）** 提供基础设施支持的项目，
 面向科研团队、学生项目与早期创业者，展示其在 **免费高性能算力** 支持下的成果。
