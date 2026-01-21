@@ -25,9 +25,9 @@
 [![CTA](https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge")]([https://github.com/MiraclePlus/miracleplus-skills](https://www.miracleplus.com/compute/))
 
 本目录收录由 **奇绩算力**（MiraclePlus Compute） 提供基础设施支持的项目，
-面向科研团队、学生项目与早期创业者，展示其在 **免费高性能算力** 支持下的成果。
+面向科研团队、学生项目与早期创业者，展示其在**免费高性能算力**支持下的成果。
 
-[![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
+**申请免费算力**: [![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
 
 > 本仓库为**项目索引目录**，不集中托管项目源代码或数据。
 
@@ -221,7 +221,7 @@
 
 *版本: v0.9*
 
-*Projects数量: 67个*
+*项目数量: 67个*
 
 *维护: MiraclePlus Compute Team*
 
