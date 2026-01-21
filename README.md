@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.miracleplus.com/compute/">
-    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="36" />
+    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="48" />
   </a>
 </p>  
 
@@ -16,49 +16,48 @@
   简体中文 | <a href="README_en.md">English</a>
 </p>
 
-<div align="center">
-  <h2 align="center">
-    
-# 奇绩算力 · 项目目录（2025）
-  </h2></div>
+<h1 align="center">奇绩算力 · 项目目录（2025）</h1>
+
 
 [![Projects](https://img.shields.io/badge/Projects-67-brightgreen.svg)](https://github.com/miracleplus-projects/portal_demo2/)
-[![License](https://img.shields.io/badge/license-Internal-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-External-orange.svg)](README.md)
 [![CTA](https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge")]([https://github.com/MiraclePlus/miracleplus-skills](https://www.miracleplus.com/compute/))
 
-本目录收录由 **奇绩算力（MiraclePlus Compute）** 提供基础设施支持的项目，
+本目录收录由 **奇绩算力**（MiraclePlus Compute） 提供基础设施支持的项目，
 面向科研团队、学生项目与早期创业者，展示其在 **免费高性能算力** 支持下的成果。
+
+[![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
 
 > 本仓库为**项目索引目录**，不集中托管项目源代码或数据。
 
 
 
-## Outstanding
+## Featured Projects
 
 | Project       | One-line intro             | Links              |
 | -- | -------------------------- | ------------------ |
-| Macaron Mindlab       | 万亿参数微调 | [Docs](https://mint.macaron.im/doc/) · [Web](https://macaron.im/mindlab) |
-| MoonCake（任峰）          | 知名开源社区（被kimi等使用） | [Repo](https://github.com/kvcache-ai/Mooncake) · [Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf) · [Docs/Paper](https://www.usenix.org/system/files/fast25-qin.pdf)   |
+| Mind Lab Toolkit (MinT)     | 万亿参数微调 | [Repo](https://github.com/MindLab-Research/mindlab-toolkit) · [Docs](https://mint.macaron.im/doc/) · [Web](https://macaron.im/mindlab) |
+| MoonCake（任峰）          | 知名开源社区（被kimi等使用） | [Repo](https://github.com/kvcache-ai/Mooncake) · [Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf) · [Paper](https://www.usenix.org/system/files/fast25-qin.pdf)   |
 | 中科院王军组          | AI 发现新型药物分子                | Docs  |
-| 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | Demo · Docs   |
+| 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | [Demo](https://www.bilibili.com/video/BV14cEMz8EnG/)· [Web](https://langyi.tech/)  |
 
 
 ---
 
 ## 项目覆盖范围
 
-本批次项目共计 67 项，覆盖以下技术方向：
+本批次项目共计 67 项，覆盖以下7类技术方向：
 
-- [具身智能与机器人](https://github.com/miracleplus-projects/portal_demo2/edit/main/README.md#%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA)
-- [Agent与智能系统](https://github.com/miracleplus-projects/portal_demo2/edit/main/README.md#agent%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F)
-- [多模态与内容生成](https://github.com/miracleplus-projects/portal_demo2/edit/main/README.md#%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%8E%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90)
-- [AI for Science（医药、材料、科学计算）](https://github.com/miracleplus-projects/portal_demo2/edit/main/README.md#%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%8E%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90)
-- [系统、推理与算力基础设施](https://github.com/miracleplus-projects/portal_demo2/edit/main/README.md#%E7%B3%BB%E7%BB%9F%E6%8E%A8%E7%90%86%E4%B8%8E%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD)
-- [仿真、世界模型与物理 AI](https://github.com/miracleplus-projects/portal_demo2/edit/main/README.md#%E4%BB%BF%E7%9C%9F%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%89%A9%E7%90%86-ai)
-- [数据/工业智能](https://github.com/miracleplus-projects/portal_demo2/edit/main/README.md#%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%B8%9A%E6%99%BA%E8%83%BD)
+- [具身智能与机器人](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA)
+- [Agent与智能系统](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#agent%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F)
+- [多模态与内容生成](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%8E%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90)
+- [AI for Science（医药、材料、科学计算）](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#ai-for-science%E5%8C%BB%E8%8D%AF%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97)
+- [系统、推理与算力基础设施](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E7%B3%BB%E7%BB%9F%E6%8E%A8%E7%90%86%E4%B8%8E%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD)
+- [仿真、世界模型与物理 AI](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%B8%9A%E6%99%BA%E8%83%BD)
+- [数据/工业智能](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%B8%9A%E6%99%BA%E8%83%BD)
 
-项目来源于成功申请奇绩算力支持的科研团队、工程团队及初创企业。
+项目均来源于成功申请奇绩算力支持的科研团队、工程团队及初创企业。
 
 ---
 
@@ -86,7 +85,7 @@
 | -- | -------------------------- | ------------------ |
 | 朗毅机器人         | 世界第一的语义分割算法，赋予人形机器人自主移动与交互能力 | Repo · Docs   |
 | 阿卡西机器人        | 基于端到端模型的导航小脑及导盲机器人         | Repo · Link · Docs |
-| 枢途大脑          | 驱动机器人场景作业能力的具身智能大模型企业      | [Repo]() · [Demo]() · [Docs]()     |
+| 枢途大脑          | 驱动机器人场景作业能力的具身智能大模型企业      | [Repo] · [Demo] · [Docs]     |
 | 如身机器人         | 面向康复健身与家庭服务的模块化机器人         | Docs               |
 | 无限工坊          | 面向机械加工场景的具身学徒机器人体系         | Docs               |
 | 拉玛羊驼          | Lilith 系列具身智能大模型           | Docs               |
@@ -94,7 +93,7 @@
 | Feagine       | 全球首款具身连续体机械臂               | Docs               |
 | 燧石机器人         | 面向家庭场景的智能服务机器人             | Docs               |
 | 启物科技          | 人形机器人端侧大脑与软硬一体方案           | Docs               |
-| Hyperspace AI | 具身智能与机器人探索项目               | [Repo]() · [Demo]() · [Docs]()              |
+| Hyperspace AI | 具身智能与机器人探索项目               | [Repo] · [Demo] · [Docs]          |
 | 通用灵巧手（清华张谷）   | 基于第一人称视频的灵巧操作学习            | Repo               |
 | PuppetMind 魁智 | 具备泛化能力的机器人大脑               | Docs               |
 | 1-bit 具身多模态模型 | 高效推理的具身智能基础模型              | Repo               |
@@ -105,7 +104,7 @@
 
  | Project                | One-line intro              | Links       |
  | ---------------------- | --------------------------- | ----------- |
-| Midreal                | System2 Agent 驱动的 AI 小说创作平台 | Repo · Link |
+|  Midreal & Macaron      | System2 Agent 驱动的 AI 小说创作平台 | Repo · Link |
  | 缔零科技                   | 面向高风险内容的 AI 安全解决方案          | Docs        |
 | 跨越星空                   | GUI Agent 与 Web Agent 平台    | Repo · Docs |
 | 探微杜渐（AI Hacker）        | AI 驱动的网络攻击与防御研究             | Repo        |
@@ -196,7 +195,7 @@
 ---
 
 
-## 适用人群 [![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
+## 适用人群 
 
 
 - **算力需求者**: 战略决策、产品参考
@@ -208,8 +207,7 @@
 
 - **维护团队**: MiraclePlus Compute Team
 - **问题反馈**: 通过Issues提交
-
-[![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
+- **算力申请**:  [![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
 
 ## 许可证
 
@@ -217,11 +215,14 @@
 
 ---
 
-**让我们一起帮助更多创业者成功！** 
+**惠人达己，守正出奇，让我们一起帮助更多创业者成功！**  [![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
 
 *最后更新: 2026-01-21*
+
 *版本: v0.9*
+
 *Projects数量: 67个*
+
 *维护: MiraclePlus Compute Team*
 
 
