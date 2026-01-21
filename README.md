@@ -19,17 +19,21 @@
 <h1 align="center">奇绩算力 · 项目目录（2025）</h1>
 
 
+
+本目录收录由 **奇绩算力**（MiraclePlus Compute） 提供基础设施支持的项目，
+面向科研团队、学生项目与早期创业者，展示其在**免费高性能算力**支持下的成果。
+> 本仓库为**项目索引目录**，不集中托管项目源代码或数据。
+
+
+<h2 align="center"> 申请免费算力: </h2>
+
 [![Projects](https://img.shields.io/badge/Projects-67-brightgreen.svg)](https://github.com/miracleplus-projects/portal_demo2/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-External-orange.svg)](README.md)
 [![CTA](https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge")]([https://github.com/MiraclePlus/miracleplus-skills](https://www.miracleplus.com/compute/))
+[![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
 
-本目录收录由 **奇绩算力**（MiraclePlus Compute） 提供基础设施支持的项目，
-面向科研团队、学生项目与早期创业者，展示其在**免费高性能算力**支持下的成果。
 
-**申请免费算力**: [![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
-
-> 本仓库为**项目索引目录**，不集中托管项目源代码或数据。
 
 
 
