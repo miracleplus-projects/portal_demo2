@@ -187,13 +187,33 @@
 
 ---
 
-## Notes
 
-* This repository acts as a **directory only**.
-* All linked materials are owned and maintained by the respective project teams.
-* Information included here has been confirmed as publicly shareable.
+## 适用人群
 
----
+- **算力需求者**: 战略决策、产品参考
+- **投资人**: 项目评估、尽调分析
+- **咨询顾问**: 行业研究、战略规划
+- **MiraclePlus团队**: 校友产品回顾与推广
+
+## 联系方式
+
+- **维护团队**: MiraclePlus Compute Team
+- **问题反馈**: 通过Issues提交
+
+## 许可证
+
+本目录使用MIT License
+
+
+
+**让我们一起帮助更多创业者成功！** 🚀
+
+*最后更新: 2026-01-21*
+*版本: v0.9*
+*Projects数量: 67个*
+*维护: MiraclePlus Compute Team*
+
+
 
 <p align="center">
   <a href="https://compute.miracleplus.com/apply?ref=github_logo">
