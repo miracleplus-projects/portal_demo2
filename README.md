@@ -1,16 +1,21 @@
 <p align="center">
-  <a href="https://compute.miracleplus.com/apply?ref=github_logo">
+  <a href="https://www.miracleplus.com/compute/">
     <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="32" />
   </a>
 </p>
 
+<!-- MiraclePlus Compute Infrastructure Support -->
+<p align="center">
+  <a href="https://www.miracleplus.com/compute/">
+    <img src="https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge" />
+  </a>
+</p>
 
 
 <p align="right">
   简体中文 | <a href="README_en.md">English</a>
 </p>
 
-[![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
 [![Projects](https://img.shields.io/badge/Projects-67-brightgreen.svg)](https://github.com/miracleplus-projects/portal_demo2/)
 [![License](https://img.shields.io/badge/license-Internal-blue.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-External-orange.svg)](README.md)
@@ -32,9 +37,9 @@
 | Project       | One-line intro             | Links              |
 | -- | -------------------------- | ------------------ |
 | Macaron/Midreal        | 万亿参数微调 | Repo · Link |
-| MoonCake（任峰）          | 知名开源社区（被kimi等使用） | [Repo](https://example.com) · [Demo](https://example.com) · [Docs](https://example.com)   |
+| MoonCake（任峰）          | 知名开源社区（被kimi等使用） | [Repo](https://github.com/kvcache-ai/Mooncake) · [Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf) · [Docs/Paper](https://www.usenix.org/system/files/fast25-qin.pdf)   |
 | 中科院王军组          | AI 发现新型药物分子                | Docs  |
-| 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | Repo · Docs   |
+| 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | Demo · Docs   |
 
 
 ---
@@ -188,7 +193,8 @@
 ---
 
 
-## 适用人群
+## 适用人群 [![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
+
 
 - **算力需求者**: 战略决策、产品参考
 - **投资人**: 项目评估、尽调分析
@@ -200,11 +206,13 @@
 - **维护团队**: MiraclePlus Compute Team
 - **问题反馈**: 通过Issues提交
 
+[![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
+
 ## 许可证
 
 本目录使用MIT License
 
-
+---
 
 **让我们一起帮助更多创业者成功！** 🚀
 
