@@ -1,19 +1,21 @@
-<!-- MiraclePlus Compute Infrastructure Support -->
 <p align="center">
   <a href="https://compute.miracleplus.com/apply?ref=github_logo">
-    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="30" />
+    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="32" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://compute.miracleplus.com/apply?ref=github_badge">
-    <img src="https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge" />
-  </a>
-</p>
+
 
 <p align="right">
   简体中文 | <a href="README_en.md">English</a>
 </p>
+
+[![Apply for Free Compute](https://img.shields.io/badge/Apply%20for-Free%20Compute-blue?style=for-the-badge)](https://www.miracleplus.com/compute/)
+[![Projects](https://img.shields.io/badge/Projects-67-brightgreen.svg)](https://github.com/miracleplus-projects/portal_demo2/)
+[![License](https://img.shields.io/badge/license-Internal-blue.svg)](LICENSE)
+[![Type](https://img.shields.io/badge/type-External-orange.svg)](README.md)
+[![CTA](https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge")]([https://github.com/MiraclePlus/miracleplus-skills](https://www.miracleplus.com/compute/))
+
 
 # 奇绩算力 · 项目目录（2025）
 
@@ -192,3 +194,18 @@
 * Information included here has been confirmed as publicly shareable.
 
 ---
+
+<p align="center">
+  <a href="https://compute.miracleplus.com/apply?ref=github_logo">
+    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="32" />
+  </a>
+</p>
+
+<!-- MiraclePlus Compute Infrastructure Support -->
+<p align="center">
+  <a href="https://compute.miracleplus.com/apply?ref=github_badge">
+    <img src="https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge" />
+  </a>
+</p>
+
+
