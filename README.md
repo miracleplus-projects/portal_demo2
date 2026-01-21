@@ -1,4 +1,4 @@
-<p align="center">
+<img width="1422" height="243" alt="image" src="https://github.com/user-attachments/assets/663aaa59-1225-4d58-b3e8-59d21a161817" /><p align="center">
   <a href="https://www.miracleplus.com/compute/">
     <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="32" />
   </a>
@@ -116,7 +116,7 @@
  | 清华马骁腾                  | 下一代智能体与强化学习研究               | Repo        |
  | Latent Space Reasoning | 突破语言边界的大模型思考                | Repo        |
 | 隐空间思维                  | 测试时隐空间推理与记忆                 | Repo        |
- | 中科院郭怡然                 | 新型大模型强化学习框架 SPO             | Repo        |
+ | 中科院郭怡然                 | 新型大模型强化学习框架 SPO             | [Repo](https://github.com/AIFrameResearch/SPO)    |
 | 动态重排序模型                | 检索增强的排序推理模型                 | Repo        |
 
 
