@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.miracleplus.com/compute/">
-    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="48" />
+    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="50" />
   </a>
 </p>  
 
