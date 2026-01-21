@@ -1,8 +1,8 @@
-<img width="1422" height="243" alt="image" src="https://github.com/user-attachments/assets/663aaa59-1225-4d58-b3e8-59d21a161817" /><p align="center">
+<p align="center">
   <a href="https://www.miracleplus.com/compute/">
     <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="32" />
   </a>
-</p>
+</p>  
 
 <!-- MiraclePlus Compute Infrastructure Support -->
 <p align="center">
@@ -16,8 +16,11 @@
   简体中文 | <a href="README_en.md">English</a>
 </p>
 
-
+<div align="center">
+  <h2 align="center">
+    
 # 奇绩算力 · 项目目录（2025）
+  </h2></div>
 
 [![Projects](https://img.shields.io/badge/Projects-67-brightgreen.svg)](https://github.com/miracleplus-projects/portal_demo2/)
 [![License](https://img.shields.io/badge/license-Internal-blue.svg)](LICENSE)
