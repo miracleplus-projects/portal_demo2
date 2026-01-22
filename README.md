@@ -50,12 +50,12 @@
 本批次项目共计 67 项，覆盖以下7类技术方向：
 
 - [具身智能与机器人](#具身智能与机器人)
-- [Agent与智能系统](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#agent%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F)
-- [多模态与内容生成](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%8E%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90)
-- [AI for Science（医药、材料、科学计算）](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#ai-for-science%E5%8C%BB%E8%8D%AF%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97)
-- [系统、推理与算力基础设施](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E7%B3%BB%E7%BB%9F%E6%8E%A8%E7%90%86%E4%B8%8E%E7%AE%97%E5%8A%9B%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD)
-- [仿真、世界模型与物理 AI](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%B8%9A%E6%99%BA%E8%83%BD)
-- [数据/工业智能](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E6%95%B0%E6%8D%AE%E5%B7%A5%E4%B8%9A%E6%99%BA%E8%83%BD)
+- [Agent与智能系统](#Agent与智能系统)
+- [多模态与内容生成](#多模态与内容生成)
+- [AI for Science（医药、材料、科学计算）](#ai-for-science（医药、材料、科学计算）)
+- [系统、推理与算力基础设施](#系统、推理与算力基础设施)
+- [仿真、世界模型与物理 AI](#仿真、世界模型与物理-AI)
+- [数据/工业智能](#数据/工业智能)
 
 项目均来源于成功申请奇绩算力支持的科研团队、工程团队及初创企业。
 
