@@ -13,7 +13,10 @@
 [![Projects](https://img.shields.io/badge/Projects-67-brightgreen.svg)](https://github.com/miracleplus-projects/portal_demo2/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-External-orange.svg)](README.md)
+![Powered by MiraclePlus Compute](https://img.shields.io/badge/Powered%20by-MiraclePlus%20Compute-1F6FFF)
+![Powered by MiraclePlus Compute](https://img.shields.io/badge/🚀Powered%20by-MiraclePlus%20Compute-1F6FFF?style=flat)
 [![CTA](https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge")]([https://github.com/MiraclePlus/miracleplus-skills](https://www.miracleplus.com/compute/))
+![MiraclePlus Alumni Project](https://img.shields.io/badge/MiraclePlus-Alumni%20Project👔-1F6FFF)
 
 本目录收录由 **奇绩算力**（MiraclePlus Compute） 提供基础设施支持的项目，
 面向科研团队、学生项目与早期创业者，展示其在**免费高性能算力**支持下的成果。
@@ -46,7 +49,7 @@
 
 本批次项目共计 67 项，覆盖以下7类技术方向：
 
-- [具身智能与机器人](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA)
+- [具身智能与机器人](#具身智能与机器人)
 - [Agent与智能系统](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#agent%E4%B8%8E%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F)
 - [多模态与内容生成](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#%E5%A4%9A%E6%A8%A1%E6%80%81%E4%B8%8E%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90)
 - [AI for Science（医药、材料、科学计算）](https://github.com/miracleplus-projects/portal_demo2/tree/main?tab=readme-ov-file#ai-for-science%E5%8C%BB%E8%8D%AF%E6%9D%90%E6%96%99%E7%A7%91%E5%AD%A6%E8%AE%A1%E7%AE%97)
