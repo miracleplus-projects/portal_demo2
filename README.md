@@ -14,7 +14,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Type](https://img.shields.io/badge/type-External-orange.svg)](README.md)
 ![Powered by MiraclePlus Compute](https://img.shields.io/badge/Powered%20by-MiraclePlus%20Compute-1F6FFF)
-![Powered by MiraclePlus Compute](https://img.shields.io/badge/🚀Powered%20by-MiraclePlus%20Compute-1F6FFF?style=flat)
+![Powered by MiraclePlus Compute](https://img.shields.io/badge/🚀Powered%20by-MiraclePlus%20Compute-1F6FFF?style=social)
 [![CTA](https://img.shields.io/badge/Free%20GPU%20Support-Apply-success?style=for-the-badge")]([https://github.com/MiraclePlus/miracleplus-skills](https://www.miracleplus.com/compute/))
 ![MiraclePlus Alumni Project](https://img.shields.io/badge/MiraclePlus-Alumni%20Project👔-1F6FFF)
 
@@ -40,7 +40,7 @@
 | Mind Lab Toolkit (MinT)     | 万亿参数微调 | [Repo](https://github.com/MindLab-Research/mindlab-toolkit) · [Docs](https://mint.macaron.im/doc/) · [Web](https://macaron.im/mindlab) |
 | MoonCake（任峰）          | 知名开源社区（被kimi等使用） | [Repo](https://github.com/kvcache-ai/Mooncake) · [Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf) · [Paper](https://www.usenix.org/system/files/fast25-qin.pdf)   |
 | 中科院王军组          | AI 发现新型药物分子                | Docs  |
-| 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | [Demo](https://www.bilibili.com/video/BV14cEMz8EnG/)· [Web](https://langyi.tech/)  |
+| 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | [Demo](https://www.bilibili.com/video/BV14cEMz8EnG/) · [Web](https://langyi.tech/)  |
 
 
 ---
@@ -50,11 +50,11 @@
 本批次项目共计 67 项，覆盖以下7类技术方向：
 
 - [具身智能与机器人](#具身智能与机器人)
-- [Agent与智能系统](#Agent与智能系统)
+- [Agent与智能系统](#agent与智能系统)
 - [多模态与内容生成](#多模态与内容生成)
 - [AI for Science（医药、材料、科学计算）](#ai-for-science医药材料科学计算)
 - [系统、推理与算力基础设施](#系统推理与算力基础设施)
-- [仿真、世界模型与物理 AI](#仿真世界模型与物理AI)
+- [仿真、世界模型与物理AI](#仿真世界模型与物理ai)
 - [数据/工业智能](#数据工业智能)
 
 项目均来源于成功申请奇绩算力支持的科研团队、工程团队及初创企业。
@@ -171,7 +171,7 @@
 
 
 
-##  仿真、世界模型与物理 AI
+##  仿真、世界模型与物理AI
 
 | Project           | One-line intro        | Links       |
 | ----------------- | --------------------- | ----------- |
