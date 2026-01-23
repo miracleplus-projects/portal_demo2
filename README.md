@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.miracleplus.com/compute/">
-    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="50" />
+    <img src="https://www.miracleplus.com/images/miracleplus-logo2-fe09ec79.png" height="36" />
   </a>
 </p>  
 
@@ -39,6 +39,7 @@
 | -- | -------------------------- | ------------------ |
 | Mind Lab Toolkit (MinT)     | 万亿参数微调 | [Repo](https://github.com/MindLab-Research/mindlab-toolkit) · [Docs](https://mint.macaron.im/doc/) · [Web](https://macaron.im/mindlab) |
 | MoonCake（任峰）          | 知名开源社区（被kimi等使用） | [Repo](https://github.com/kvcache-ai/Mooncake) · [Slides](https://www.usenix.org/system/files/fast25_slides-qin.pdf) · [Paper](https://www.usenix.org/system/files/fast25-qin.pdf)   |
+| SGLang                | 高效大模型推理框架      | [Repo](https://github.com/sgl-project/sglang) · [Docs](https://docs.sglang.io) |
 | 中科院王军组          | AI 发现新型药物分子                | Docs  |
 | 朗毅机器人         | 世界第一的自动驾驶语义分割算法 | [Demo](https://www.bilibili.com/video/BV14cEMz8EnG/) · [Web](https://langyi.tech/)  |
 
